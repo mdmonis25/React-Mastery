@@ -26,3 +26,7 @@ For info about React Fibre, Reconciliation and Other things.
 https://github.com/acdlite/react-fiber-architecture
 
 Also Recommended to visit meta's React repo, You get basic understanding of reactdom and states jsx etc.
+
+--------------------------------------------------------------------------------------------------------------
+For configuring TailwindCSS, go through documentation
+Dumb Components - Components which takes nothing as parameter and it is not modifiable 
